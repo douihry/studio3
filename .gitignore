@@ -36,3 +36,5 @@ bundles/com.aptana.scripting/bundles/*.ruble/
 bundles/com.aptana.scripting/bundle_timestamps.txt
 
 node_modules/
+
+.fake
